@@ -87,3 +87,9 @@ color can be changed by this values
 <img width="285" alt="Screenshot 2023-06-24 at 11 48 54" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/2a608f05-a032-45fb-bd47-827ce1722f22">
 <img width="285" alt="Screenshot 2023-06-24 at 11 49 35" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/ea3c376d-a3a0-42a0-9515-b58e42acc05d">
 <img width="285" alt="Screenshot 2023-06-24 at 11 51 14" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/f354807a-08dc-44dc-b06a-267d86edbffc">
+
+### VIDEO:
+
+https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/303f993f-0f64-488a-be1b-99f90af02edd
+
+
