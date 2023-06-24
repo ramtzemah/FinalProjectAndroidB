@@ -2,7 +2,7 @@
 
 ## Progress Bar Horizontal
 
-#### first stage:
+### first stage:
 
 add this lines to gandle:
 
@@ -48,7 +48,7 @@ and
       }
     }
 
-#### second stage:
+### second stage:
 add a CardView to your layout
 
      <androidx.cardview.widget.CardView
@@ -62,7 +62,7 @@ add a CardView to your layout
 
 <img width="285" alt="Screenshot 2023-06-24 at 10 48 28" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/48595a9b-3262-4c63-b4c8-00e4f096783e">
 
-#### third stage:
+### third stage:
 add this line:<br>
 ``` ProgressBarHorizontal.progressBar(this, cardView, this.currentProgress, max) ```<br>
 
@@ -76,3 +76,14 @@ add this line:<br>
 ![Screenshot 2023-06-23 at 22 51 39](https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/b48f9643-3e91-44e4-817b-672b95323bc1)
 
 <img width="285" alt="Screenshot 2023-06-24 at 11 01 10" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/9497ee5c-32dd-4f51-b71f-4ae0866e4922">
+
+
+### * colors of progress bar
+color can be changed by this values
+
+    <color name="background_progress">#000000</color>
+    <color name="progress">#FFEB3B</color>
+
+<img width="285" alt="Screenshot 2023-06-24 at 11 48 54" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/2a608f05-a032-45fb-bd47-827ce1722f22">
+<img width="285" alt="Screenshot 2023-06-24 at 11 49 35" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/ea3c376d-a3a0-42a0-9515-b58e42acc05d">
+<img width="285" alt="Screenshot 2023-06-24 at 11 51 14" src="https://github.com/ramtzemah/FinalProjectAndroidB/assets/65961116/f354807a-08dc-44dc-b06a-267d86edbffc">
