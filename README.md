@@ -64,7 +64,7 @@ add a CardView to your layout
 
 ### third stage:
 add this line:<br>
-``` ProgressBarHorizontal.progressBar(this, cardView, this.currentProgress, max) ```<br>
+``` ProgressBarHorizontal.progressBar(this, cardView, currentProgress, max) ```<br>
 
 **this**: the activity<br>
 **cardView**: the CardView you add in the first stage<br>
