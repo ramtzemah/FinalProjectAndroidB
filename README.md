@@ -7,7 +7,7 @@
 add this lines to gandle:
 
 	dependencies {
-	        implementation 'com.github.ramtzemah:FinalProjectAndroidB:1.0.0'
+	        implementation 'com.github.ramtzemah:FinalProjectAndroidB:1.0.1'
 	}
 
 and
